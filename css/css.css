@@ -18,7 +18,7 @@ body{
 	background-color: #fff;
 	color: #222;
 	font-family:'Readex Pro', sans-serif;
-	font-size:1.8em;
+	font-size:1.6em;
 	line-height: 1.6em;
 	text-align:left;
 }
@@ -33,7 +33,7 @@ body{
 	line-height: 2em;
 	float: left;
 	width: 100%;
-	border-bottom: #cecece 5px solid;
+	border-bottom: #44d299 5px dotted;
 }
 
 a{
